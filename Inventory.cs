@@ -7,9 +7,9 @@ namespace InventoryManagement
 {
     public class Inventory
     {
-        public TypeOfRice typeOfRice;
-        public TypeOfPulses typeOfPulses;
-        public TypeOfWheat typeOfWheat;
+        public List <TypeOfRice> typeOfRice;
+        public List <TypeOfPulses> typeOfPulses;
+        public List <TypeOfWheat> typeOfWheat;
 
     }
 
