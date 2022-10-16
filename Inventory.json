@@ -1,0 +1,23 @@
+{
+  "TyepesOfRice": 
+
+    {
+      "name": "rice",
+      "weight": 2,
+      "price": 200
+    },
+   
+  "TypeOfPulses": 
+    {
+      "name": "dal",
+      "weight": 1,
+      "price": 210
+    }
+  ,
+  "TypeOfWheat": 
+    {
+      "name": "Sharbati",
+      "weight": 6,
+      "price": 410
+    }
+}
